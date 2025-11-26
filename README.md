@@ -48,22 +48,23 @@ def policy_iteration(P,gamma=1.0,theta=1e-10):
 
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
-<img width="583" height="158" alt="image" src="https://github.com/user-attachments/assets/fc5f9e13-6acf-4467-9e94-aef896263d46" />
-<img width="721" height="176" alt="image" src="https://github.com/user-attachments/assets/c70a6b5a-8f09-42d9-81a2-0f307ee4868b" />
-<img width="947" height="38" alt="image" src="https://github.com/user-attachments/assets/4b607b60-8894-4a06-9264-ae5ef80e0826" />
+<img width="475" height="99" alt="image" src="https://github.com/user-attachments/assets/62b06255-2ddb-400d-b991-4aca36ae9fff" />
+<img width="419" height="111" alt="image" src="https://github.com/user-attachments/assets/426bc0b0-2fad-44e1-990a-562e0922baca" />
 
 
 ### 2. Policy, Value function and success rate for the Improved Policy
-<img width="767" height="171" alt="image" src="https://github.com/user-attachments/assets/7ed6e56a-b7f5-4d9f-9e88-e416c79f994d" />
-<img width="875" height="192" alt="image" src="https://github.com/user-attachments/assets/46df37d2-7a47-428d-bda1-7463e944c8ad" />
-<img width="932" height="46" alt="image" src="https://github.com/user-attachments/assets/b42b4698-74c0-453f-8f29-d97b5334595e" />
+<img width="443" height="74" alt="image" src="https://github.com/user-attachments/assets/1b2f5f0f-42aa-4155-b155-11d3fabfffc8" />
+
+<img width="464" height="108" alt="image" src="https://github.com/user-attachments/assets/a63bf37d-0f0e-497a-beb7-261ee0783ec4" />
 
 
 
 ### 3. Policy, Value function and success rate after policy iteration
-<img width="696" height="168" alt="image" src="https://github.com/user-attachments/assets/60ac7590-d328-480e-920a-0f4ea2f0da13" />
-<img width="767" height="201" alt="image" src="https://github.com/user-attachments/assets/ee9093ed-0019-457d-9043-52709525e92c" />
-<img width="922" height="52" alt="image" src="https://github.com/user-attachments/assets/5bd74fd5-995a-4af1-8cbf-b6ec4f0205a3" />
+<img width="396" height="80" alt="image" src="https://github.com/user-attachments/assets/0ec4998f-6948-461e-b3da-a1c2adba2847" />
+
+<img width="459" height="134" alt="image" src="https://github.com/user-attachments/assets/a982323c-3252-4f0c-aaf4-85ba3bad4a13" />
+
+
 
 
 
